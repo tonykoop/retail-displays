@@ -29,6 +29,9 @@ The displays themselves were *seen by millions of shoppers* in stores across Nor
 
 > *(Forthcoming — short writeups per major project.)*
 
+![XCRAFT XPlusOne drone retail display, 2016](images/2016-03-04%2010.06.34.jpg)
+*Acrylic-and-aluminum point-of-purchase display fixture for the XCRAFT XPlusOne quadcopter — backlit pedestal, integrated promotional video screen, branded header signage, and three-drawer storage base.*
+
 - **Target — in-store signage** *(forthcoming)*
 - **Best Buy — in-aisle displays** *(forthcoming)*
 - **Sephora — makeup-counter displays** *(forthcoming)*
