@@ -3,7 +3,7 @@
 > *In-store signage for Target, in-aisle displays for Best Buy, makeup displays for Sephora, and other retail-environment fixtures designed and engineered during my Excel Plastics tenure (Dec 2015 – Nov 2017).*
 
 ![Hero photo](images/00-hero-display.jpg)
-*(placeholder)*
+*Installed in-store order-pickup signage: a finished retail environment where plastic fabrication, typography, mounting, lighting, and brand constraints all have to resolve into something customers can read instantly.*
 
 ## What this is
 
