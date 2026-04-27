@@ -13,6 +13,8 @@ This repository is a **portfolio piece**, not an open hardware project. The disp
 
 The displays themselves were *seen by millions of shoppers* in stores across North America during their deployment, so the finished work is fully public — it's the underlying CAD and process documentation that remains proprietary.
 
+Career-neighbor repo: [`suction-cup-mount`](https://github.com/tonykoop/suction-cup-mount). That repo captures the Bracketron patent/product side of my consumer-product work immediately before Excel Plastics; this repo captures the retail-channel fixture and signage side that followed.
+
 ## What you'll find
 
 - **Photos of finished displays** that I took on-site or that were publicly distributed.
