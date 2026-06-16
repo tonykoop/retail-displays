@@ -34,3 +34,29 @@ stash-recovered-*/
 *.MOV
 *.mp4
 *.MP4
+
+# --- Proprietary Excel Plastics IP — NEVER commit (see NOTICE.md) ---
+# Excel Plastics and its clients own the underlying CAD, drawings, and
+# fabrication specs from the 2015–2017 employment. This repo documents the
+# role + public-deployed work only. Defensive ignores so proprietary source
+# never lands here by accident.
+EP[0-9]*
+EP-*
+*excel-plastics*
+*Excel-Plastics*
+*ExcelPlastics*
+/proprietary/
+/client-cad/
+# Proprietary CAD / drawing source (this is a docs+photos repo; no CAD belongs here)
+*.sldprt
+*.SLDPRT
+*.sldasm
+*.SLDASM
+*.slddrw
+*.SLDDRW
+*.step
+*.stp
+*.iges
+*.igs
+*.x_t
+*.dwg
